@@ -1,2 +1,3 @@
-# Portfolio2
-My second portfolio because my first had some responsive issues
+## Personal Portfolio
+
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
