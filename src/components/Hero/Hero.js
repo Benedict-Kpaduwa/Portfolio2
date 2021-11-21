@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         I'm a full stack software engineer skilled with 2 years experience
       </SectionText>
-      <Button onClick={() => window.location = "https://google.com"}>Learn More</Button>
+      <Button onClick={() => window.location = "https://www.linkedin.com/in/benedict-kpaduwa-c-7a6010164/"}>Learn More</Button>
     </LeftSection>
     
   </Section>
