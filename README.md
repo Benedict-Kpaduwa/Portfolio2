@@ -1,3 +1,2 @@
 ## Personal Portfolio
-
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+My Personal Portfolio since my other one had responsive issues
