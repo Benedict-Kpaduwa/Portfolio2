@@ -12,7 +12,7 @@ const Hero = (props) => (
         I am Benedict Kpaduwa
       </SectionTitle>
       <SectionText>
-        I'm a full stack software engineer skilled with 2 years experience
+        I'm a full stack software engineer and mobile software developer skilled with 2 years experience
       </SectionText>
       <Button onClick={() => window.location = "https://www.linkedin.com/in/benedict-kpaduwa-c-7a6010164/"}>Learn More</Button>
     </LeftSection>
