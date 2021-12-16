@@ -8,6 +8,15 @@ export const projects = [
     visit: 'https://github.com/Benedict-Kpaduwa/React-Movie-Database',
     id: 0,
   },
+  {
+    title: "Benedict CryptoVerse",
+    description: "An application that gives insight to the crypto currency market",
+    image: "/images/screencapture-localhost-3000-2021-12-16-17_11_02.png",
+    tags: ["React", "Redux TootlKit", "CoinRanking API", "Bing News"],
+    source: "https://benedictcryptoverse.netlify.app/",
+    visit: "https://github.com/Benedict-Kpaduwa/Crypoverse",
+    id: 1,
+  }
   
 ];
 
