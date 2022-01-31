@@ -29,7 +29,8 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br />
             Node.js, Express.js <br />
-            and Databases
+            and Databases <br />
+            Solidity 
           </ListParagraph>
         </ListContainer>
       </ListItem>
